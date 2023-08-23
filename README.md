@@ -1,2 +1,6 @@
 # guacamole-windows-docker
-Guacamole with Postgres in Docer on Windows
+Apache Guacamole with Postgres in Docker on Windows
+
+## Installation
+Just download and run in guacamole-windows-docker
+docker-compose up -d
